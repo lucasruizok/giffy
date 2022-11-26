@@ -1,0 +1,13 @@
+.gif{
+    border: 1px solid #eee;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+    padding: 32px;
+    margin: 16px;
+    width: 100%;
+}
+.gif img{
+    object-fit: contain;
+    height: 200px;
+}
